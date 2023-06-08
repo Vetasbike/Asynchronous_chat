@@ -1,0 +1,9 @@
+2023-06-08 14:41:30,876 - DEBUG    - client   - App started 
+2023-06-08 14:42:27,099 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-08 14:42:27,100 - INFO     - client   - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2023-06-08 14:41:30', 'type': 'status', 'user': {'account_name': 'Vetas', 'status': 'Yep, I am here!'}} 
+2023-06-08 14:42:27,100 - INFO     - client   - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2023-06-08 14:41:48', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:33,634 - INFO     - client   - Data sended to ('127.0.0.1', 7777) : {'action': 'msg', 'time': '2023-06-08 14:41:30', 'to': None, 'message': 'Hello'} 
+2023-06-08 14:42:33,635 - INFO     - client   - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2023-06-08 14:41:48', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:40,191 - INFO     - client   - Data sended to ('127.0.0.1', 7777) : {'action': 'msg', 'time': '2023-06-08 14:41:30', 'to': None, 'message': 'exit'} 
+2023-06-08 14:42:40,203 - INFO     - client   - Data received from ('127.0.0.1', 7777) : {'response': '404', 'time': '2023-06-08 14:41:48', 'alert': 'Not found', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:40,203 - DEBUG    - client   - App ending 

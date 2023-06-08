@@ -1,0 +1,10 @@
+2023-06-08 14:41:48,275 - DEBUG    - server   - App started 
+2023-06-08 14:41:48,295 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-08 14:42:27,099 - INFO     - server   - Client connected from 127.0.0.1:34207 
+2023-06-08 14:42:27,100 - INFO     - server   - Data received from ('127.0.0.1', 34207) : {'action': 'presence', 'time': '2023-06-08 14:41:30', 'type': 'status', 'user': {'account_name': 'Vetas', 'status': 'Yep, I am here!'}} 
+2023-06-08 14:42:27,100 - INFO     - server   - Data sended to ('127.0.0.1', 34207) : {'response': '200', 'time': '2023-06-08 14:41:48', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:33,634 - INFO     - server   - Data received from ('127.0.0.1', 34207) : {'action': 'msg', 'time': '2023-06-08 14:41:30', 'to': None, 'message': 'Hello'} 
+2023-06-08 14:42:33,635 - INFO     - server   - Data sended to ('127.0.0.1', 34207) : {'response': '200', 'time': '2023-06-08 14:41:48', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:40,191 - INFO     - server   - Data received from ('127.0.0.1', 34207) : {'action': 'msg', 'time': '2023-06-08 14:41:30', 'to': None, 'message': 'exit'} 
+2023-06-08 14:42:40,192 - INFO     - server   - Data sended to ('127.0.0.1', 34207) : {'response': '404', 'time': '2023-06-08 14:41:48', 'alert': 'Not found', 'from': 'Server', 'contacts': None} 
+2023-06-08 14:42:40,192 - DEBUG    - server   - App ending 
