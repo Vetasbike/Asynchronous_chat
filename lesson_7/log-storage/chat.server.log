@@ -1,12 +1,3 @@
-2023-06-13 11:18:52,223 - DEBUG    - server   - App started 
-2023-06-13 11:18:52,270 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
-2023-06-13 11:18:52,277 - INFO     - server   - Server started at 127.0.0.1:7777 
-2023-06-13 11:19:10,934 - INFO     - server   - Client connected from 127.0.0.1:13931 
-2023-06-13 11:19:11,449 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
-2023-06-13 11:19:11,451 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
-2023-06-13 11:19:20,097 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
-2023-06-13 11:19:20,100 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
-2023-06-13 11:19:45,506 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
-2023-06-13 11:19:45,507 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
-2023-06-13 11:19:52,111 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
-2023-06-13 11:19:52,113 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-14 11:32:04,992 - DEBUG    - server   - App started 
+2023-06-14 11:32:05,073 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-14 11:32:05,083 - INFO     - server   - Server started at 127.0.0.1:7777 
