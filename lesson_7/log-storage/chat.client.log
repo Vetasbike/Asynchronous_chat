@@ -1,0 +1,12 @@
+2023-06-13 11:18:46,656 - DEBUG    - client   - App started 
+2023-06-13 11:19:10,928 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-13 11:19:10,934 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-13 11:19:10,935 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-13 11:19:11,453 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-13 11:19:19,602 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-13 11:19:20,102 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-13 11:19:45,211 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-13 11:19:45,509 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-13 11:19:51,924 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-13 11:19:52,115 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-13 11:19:52,116 - DEBUG    - client   - App ending 
