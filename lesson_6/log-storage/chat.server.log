@@ -1,0 +1,17 @@
+2023-06-09 10:26:45,265 - DEBUG    - server   - App started 
+2023-06-09 10:26:45,326 - DEBUG    - chat     - Function "get_server_socket" is called into "<module>" 
+2023-06-09 10:26:45,332 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-09 10:27:30,765 - INFO     - server   - Client connected from 127.0.0.1:9226 
+2023-06-09 10:27:30,766 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2023-06-09 10:27:30,769 - INFO     - server   - Data received from ('127.0.0.1', 9226) : {'action': 'presence', 'time': '2023-06-09 10:27:22', 'type': 'status', 'user': {'account_name': 'Andy', 'status': 'Yep, I am here!'}} 
+2023-06-09 10:27:30,770 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-09 10:27:30,770 - INFO     - server   - Data sended to ('127.0.0.1', 9226) : {'response': '200', 'time': '2023-06-09 10:26:45', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-09 10:27:30,771 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2023-06-09 10:27:36,567 - INFO     - server   - Data received from ('127.0.0.1', 9226) : {'action': 'msg', 'time': '2023-06-09 10:27:22', 'to': None, 'message': 'Hi'} 
+2023-06-09 10:27:36,568 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-09 10:27:36,569 - INFO     - server   - Data sended to ('127.0.0.1', 9226) : {'response': '200', 'time': '2023-06-09 10:26:45', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-09 10:27:36,570 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2023-06-09 10:27:47,293 - INFO     - server   - Data received from ('127.0.0.1', 9226) : {'action': 'msg', 'time': '2023-06-09 10:27:22', 'to': None, 'message': 'What happend'} 
+2023-06-09 10:27:47,294 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-09 10:27:47,294 - INFO     - server   - Data sended to ('127.0.0.1', 9226) : {'response': '200', 'time': '2023-06-09 10:26:45', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-09 10:27:47,295 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
