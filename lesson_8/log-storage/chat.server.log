@@ -1,0 +1,13 @@
+2023-06-14 10:45:09,797 - DEBUG    - server   - App started 
+2023-06-14 10:45:09,864 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-14 10:45:09,872 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-14 10:45:20,574 - INFO     - server   - Client connected from 127.0.0.1:1250 
+2023-06-14 10:45:21,076 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-14 10:45:21,078 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-14 10:46:14,220 - INFO     - server   - Client connected from 127.0.0.1:1263 
+2023-06-14 10:46:14,737 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-14 10:46:14,739 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-14 10:47:23,655 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-14 10:47:23,655 - ERROR    - server   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 
+2023-06-14 10:47:23,656 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-14 10:47:23,657 - ERROR    - server   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 

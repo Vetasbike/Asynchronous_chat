@@ -10,3 +10,9 @@
 2023-06-13 11:19:51,924 - DEBUG    - chat     - Function "send_data" is called into "main" 
 2023-06-13 11:19:52,115 - DEBUG    - chat     - Function "get_data" is called into "main" 
 2023-06-13 11:19:52,116 - DEBUG    - client   - App ending 
+2023-06-14 11:31:31,957 - DEBUG    - client   - App started 
+2023-06-14 11:31:40,699 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-14 11:31:40,704 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-14 11:31:40,707 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-14 11:31:40,710 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-14 11:31:40,710 - ERROR    - client   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 
